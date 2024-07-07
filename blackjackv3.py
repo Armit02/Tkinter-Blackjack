@@ -477,6 +477,3 @@ def main(window, font):
                 else:
                     pass
         file.close()
-
-if __name__ == "__main__":
-    main()
